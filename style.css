@@ -87,6 +87,10 @@ h2.heading span {
     padding: 10px 20px;
 }
 
+.foot {
+    float: left;
+}
+
 #items {
     display: flex;
     display: -webkit-box;
